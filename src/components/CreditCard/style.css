@@ -1,0 +1,32 @@
+.CreditCardsList {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.CreditCard {
+  width: 30%;
+  border-radius: 10px;
+}
+
+.CardType {
+  width: 90%;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.CreditCard > h5 {
+  font-size: 24px;
+}
+
+.CreditCard > p {
+  display: flex;
+  justify-content: flex-start;
+  padding-left: 20px;
+}
+
+.CardDetails {
+  display: flex;
+  justify-content: flex-start;
+  padding-left: 20px;
+}
