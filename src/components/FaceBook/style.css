@@ -1,0 +1,10 @@
+.FaceBookProfiles {
+  display: flex;
+  flex-direction: row;
+  border: 4px solid black;
+  margin: 10px;
+}
+
+.FaceBookProfiles img {
+  width: 200px;
+}
