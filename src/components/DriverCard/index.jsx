@@ -1,5 +1,6 @@
 import React from 'react';
 import './style.css';
+// composition to nest one component inside the other
 import Rating from './../../components/Rating';
 
 const DriverCardComponent = (props) => {

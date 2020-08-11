@@ -1,0 +1,9 @@
+.carousel {
+  position: relative;
+}
+
+button {
+  position: absolute;
+  background-color: transparent;
+  border: 0;
+}
